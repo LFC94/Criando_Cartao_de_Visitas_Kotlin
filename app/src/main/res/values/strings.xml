@@ -9,4 +9,6 @@
     <string name="label_empresa">Empresa</string>
     <string name="label_cor">Cor</string>
     <string name="label_confirmar">Confirmar</string>
+    <string name="lable_escolher_cor">Escolha a cor</string>
+    <string name="fechar_tela">Fechar Tela</string>
 </resources>

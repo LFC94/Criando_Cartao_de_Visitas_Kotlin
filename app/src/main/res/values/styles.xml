@@ -13,4 +13,12 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_margin">@dimen/margin_padrao</item>
     </style>
+
+    <style name="buton_floating">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/margin_padrao</item>
+        <item name="android:backgroundTint">?attr/colorPrimary</item>
+    </style>
+
 </resources>

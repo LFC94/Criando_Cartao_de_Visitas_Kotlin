@@ -27,12 +27,11 @@
         tools:listitem="@layout/item_card" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin_padrao"
+        android:id="@+id/fab_add"
         android:contentDescription="@string/adicionar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:srcCompat="@drawable/ic_add_24" />
+        app:srcCompat="@drawable/ic_add_24"
+        style="@style/buton_floating" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

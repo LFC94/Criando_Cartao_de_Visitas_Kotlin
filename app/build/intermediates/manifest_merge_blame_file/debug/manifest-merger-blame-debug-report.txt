@@ -17,7 +17,7 @@
 13        android:allowBackup="true"
 13-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:7:9-35
 14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-14-->[androidx.core:core:1.6.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\d55fbbcfc607691be109faab4154f508\core-1.6.0\AndroidManifest.xml:24:18-86
+14-->[androidx.core:core:1.6.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\3b4b2ff73537da458ffce892e09dd840\core-1.6.0\AndroidManifest.xml:24:18-86
 15        android:debuggable="true"
 16        android:icon="@mipmap/ic_launcher"
 16-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:8:9-43
@@ -49,13 +49,13 @@
 29        </activity>
 30
 31        <service
-31-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+31-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\3b5263e8c3e20abf7888a5e0b8f3cf01\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
 32            android:name="androidx.room.MultiInstanceInvalidationService"
-32-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+32-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\3b5263e8c3e20abf7888a5e0b8f3cf01\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
 33            android:directBootAware="true"
-33-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+33-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\3b5263e8c3e20abf7888a5e0b8f3cf01\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
 34            android:exported="false" />
-34-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+34-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\3b5263e8c3e20abf7888a5e0b8f3cf01\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
 35    </application>
 36
 37</manifest>
