@@ -11,7 +11,7 @@
 9-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:5:5-20:19
+11-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:5:5-21:19
 12        android:name="br.com.lfcapp.cartodevisita.App"
 12-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:6:9-28
 13        android:allowBackup="true"
@@ -30,29 +30,32 @@
 20        android:testOnly="true"
 21        android:theme="@style/Theme.CartãoDeVisita" >
 21-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:12:9-52
-22        <activity android:name="br.com.lfcapp.cartodevisita.ui.MainActivity" >
-22-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:13:9-19:20
-22-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:13:19-50
-23            <intent-filter>
-23-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:14:13-18:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:15:17-69
-24-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:15:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:17:17-77
-26-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:17:27-74
-27            </intent-filter>
-28        </activity>
-29
-30        <service
-30-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
-31            android:name="androidx.room.MultiInstanceInvalidationService"
-31-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
-32            android:directBootAware="true"
-32-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
-33            android:exported="false" />
-33-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
-34    </application>
-35
-36</manifest>
+22        <activity android:name="br.com.lfcapp.cartodevisita.ui.AddCardActivity" />
+22-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:13:9-65
+22-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:13:19-53
+23        <activity android:name="br.com.lfcapp.cartodevisita.ui.MainActivity" >
+23-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:14:9-20:20
+23-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:14:19-50
+24            <intent-filter>
+24-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:15:13-19:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:16:17-69
+25-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:16:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:18:17-77
+27-->C:\Users\dev\AndroidStudioProjects\CartodeVisita\app\src\main\AndroidManifest.xml:18:27-74
+28            </intent-filter>
+29        </activity>
+30
+31        <service
+31-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+32            android:name="androidx.room.MultiInstanceInvalidationService"
+32-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+33            android:directBootAware="true"
+33-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+34            android:exported="false" />
+34-->[androidx.room:room-runtime:2.3.0] C:\Users\dev\.gradle\caches\transforms-2\files-2.1\6d9f002fc5fe2aa780c1282d08d612c5\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+35    </application>
+36
+37</manifest>

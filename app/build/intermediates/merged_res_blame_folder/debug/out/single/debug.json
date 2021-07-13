@@ -12,6 +12,14 @@
         "source": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_card.xml.flat",
+        "source": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\src\\main\\res\\layout\\activity_add_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_24.xml.flat",
+        "source": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\src\\main\\res\\drawable\\ic_close_24.xml"
+    },
+    {
         "merged": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_card.xml",
+        "source": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\src\\main\\res\\layout\\activity_add_card.xml"
+    },
+    {
         "merged": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_card.xml",
         "source": "C:\\Users\\dev\\AndroidStudioProjects\\CartodeVisita\\app\\src\\main\\res\\layout\\item_card.xml"
     },

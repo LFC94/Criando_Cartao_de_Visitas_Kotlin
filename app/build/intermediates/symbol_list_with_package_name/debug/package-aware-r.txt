@@ -1700,6 +1700,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable ic_add_24
 drawable ic_clock_black_24dp
+drawable ic_close_24
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1831,6 +1832,7 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btn_close
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -2134,6 +2136,8 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id til_name
+id til_telefone
 id time
 id title
 id titleDividerNoCustom
@@ -2238,6 +2242,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add_card
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2372,6 +2377,8 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string label_nome
+string label_telefone
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection
@@ -2427,6 +2434,7 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string novo_cartao
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
@@ -3156,6 +3164,8 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style text_input_layout
+style text_title
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth
