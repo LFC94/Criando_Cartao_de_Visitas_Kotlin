@@ -12,4 +12,5 @@
     <string name="lable_escolher_cor">Escolha a cor</string>
     <string name="fechar_tela">Fechar Tela</string>
     <string name="label_show_sucesso">Cadastro realizado com sucesso</string>
+    <string name="label_compartilhar">Compartilhar</string>
 </resources>

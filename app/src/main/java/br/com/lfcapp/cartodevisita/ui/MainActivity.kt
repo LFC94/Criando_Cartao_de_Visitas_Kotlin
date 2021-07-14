@@ -6,6 +6,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import br.com.lfcapp.cartodevisita.App
 import br.com.lfcapp.cartodevisita.databinding.ActivityMainBinding
+import br.com.lfcapp.cartodevisita.util.Image
 
 class MainActivity : AppCompatActivity() {
     private val binding by lazy { ActivityMainBinding.inflate(layoutInflater) }
@@ -28,6 +29,7 @@ class MainActivity : AppCompatActivity() {
             var intent = Intent(this@MainActivity, AddCardActivity::class.java)
             startActivity(intent)
         }
+        adapter.listenerShare = { card -> Image.share(this@MainActivity, card) }
     }
 
     private fun getAllCards() {
