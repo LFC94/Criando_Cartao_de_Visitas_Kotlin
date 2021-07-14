@@ -21,4 +21,13 @@
         <item name="android:backgroundTint">?attr/colorPrimary</item>
     </style>
 
+    <style name="card">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="android:checkable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+
 </resources>
