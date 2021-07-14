@@ -1,8 +1,0 @@
-br/com/lfcapp/cartodevisita/databinding/ActivityMainBinding.java
- br.com.lfcapp.cartodevisita.databinding.ActivityMainBinding
-br/com/lfcapp/cartodevisita/BuildConfig.java
- br.com.lfcapp.cartodevisita.BuildConfig
-br/com/lfcapp/cartodevisita/databinding/ActivityAddCardBinding.java
- br.com.lfcapp.cartodevisita.databinding.ActivityAddCardBinding
-br/com/lfcapp/cartodevisita/databinding/ItemCardBinding.java
- br.com.lfcapp.cartodevisita.databinding.ItemCardBinding
